@@ -5,15 +5,15 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": ""
+      "url": "https://raw.githubusercontent.com/maximnota/Latest-versions-exam-forge/main/revision-helper_0.1.0_x64-setup.exe"
     },
     "darwin-x86_64": {
-      "signature": "",
+      "signature": "https://raw.githubusercontent.com/maximnota/Latest-versions-exam-forge/main/revision-helper_0.1.0_x64.dmg",
       "url": ""
     },
     "darwin-aarch64": {
         "signature": "",
-        "url": ""
+        "url": "https://raw.githubusercontent.com/maximnota/Latest-versions-exam-forge/main/revision-helper_0.1.0_aarch64.dmg"
     }
   }
 }
