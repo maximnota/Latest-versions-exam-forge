@@ -4,15 +4,15 @@
   "pub_date": "",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeFAvRXdHbnIwTEczSHE2TkdEb1ZCVUlFbktSWWw3N3VwbXNCRkVQTGlOZWhIRHQvdEFXditpUFlpWm5OOWhFbnhRYXFGdGwwOWROR2xyU1BZQjVlRndIMkZvWmFHL2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzY2MjY3CWZpbGU6cmV2aXNpb24taGVscGVyXzAuMS4wX3g2NC1zZXR1cC5leGUKeTBxZnlyMm94Mjh2dHl5VzV1Vkc1Y2g2VlB4bTdIZS9Ea1RFanhHQkZuK2ZHS0h4UGVCN0xEb0JSYy9nWWo3NnovczgvbUdWa1pRNCtIUFprdERjQWc9PQo=",
       "url": "https://raw.githubusercontent.com/maximnota/Latest-versions-exam-forge/main/revision-helper_0.1.0_x64-setup.exe"
     },
     "darwin-x86_64": {
-      "signature": "https://raw.githubusercontent.com/maximnota/Latest-versions-exam-forge/main/revision-helper_0.1.0_x64.dmg",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeFAvRXdHbnIwTElGMUlOL285T0hGVzdZeHdwa04vOEs2T0Fva2JVUklSN1hVMVA5NW15K040NHN4WVY0aVIyQXRnNlVNS2thbGJSVk5lbDFPQ2QyRXVDZVFHZWRBYmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzY1NTg4CWZpbGU6cmV2aXNpb24taGVscGVyLmFwcC50YXIuZ3oKUlFQNHNvY0dBUFZiQTRFUEFoYjJqK2ppanFMVnJod05uRUN5SGl4M0RZMEVvdERhbXFETTk5RThEZ1FVR0hwYU5MNVBYTEVkL3Nua2FtajZHM3E2RGc9PQo=",
+      "url": "https://raw.githubusercontent.com/maximnota/Latest-versions-exam-forge/main/revision-helper_0.1.0_x64.dmg"
     },
     "darwin-aarch64": {
-        "signature": "",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeFAvRXdHbnIwTEFWV29WZHBlYW5iMTVxVFZacm5CdHBqMHFSd0JvVU92ZFdOM3dxYTVGWUIvVFJuRUI0SXVCdzBZanVEc1Zza3gzQWZRZFBFK0FDZUdoaEJkMS81VUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzY1NTgwCWZpbGU6cmV2aXNpb24taGVscGVyLmFwcC50YXIuZ3oKbE5ramhqZmRKK1ppQzl0bFdlU012U3JscjVXZndEZm9NWnhvMFJlNVlXOEp2cWFkNXo1dlRTOHd5MzlCdjV2ZkJRd0lvR0JtaHUxZVZkSHNMcVBnQmc9PQo=",
         "url": "https://raw.githubusercontent.com/maximnota/Latest-versions-exam-forge/main/revision-helper_0.1.0_aarch64.dmg"
     }
   }
